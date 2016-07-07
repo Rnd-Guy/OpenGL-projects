@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\users\jack ngo\desktop\coding\visual studio projects\opengl test\building example\main.cpp(564): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\jack ngo\desktop\coding\visual studio projects\opengl test\building example\main.cpp(564): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\jack ngo\desktop\coding\visual studio projects\opengl test\building example\main.cpp(885): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jack ngo\desktop\coding\visual studio projects\opengl test\building example\main.cpp(980): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jack ngo\desktop\coding\visual studio projects\opengl test\building example\main.cpp(981): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jack ngo\desktop\coding\visual studio projects\opengl test\building example\main.cpp(985): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jack ngo\desktop\coding\visual studio projects\opengl test\building example\main.cpp(986): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jack ngo\desktop\coding\visual studio projects\opengl test\building example\main.cpp(987): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jack ngo\desktop\coding\visual studio projects\opengl test\building example\main.cpp(988): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jack ngo\desktop\coding\visual studio projects\opengl test\building example\main.cpp(995): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Building example.vcxproj -> C:\Users\Jack Ngo\Desktop\Coding\Visual Studio Projects\OpenGL test\Debug\Building example.exe
+  Building example.vcxproj -> C:\Users\Jack Ngo\Desktop\Coding\Visual Studio Projects\OpenGL test\Debug\Building example.pdb (Partial PDB)

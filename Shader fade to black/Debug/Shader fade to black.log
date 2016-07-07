@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\jack ngo\desktop\coding\visual studio projects\opengl test\shader fade to black\main.cpp(216): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jack ngo\desktop\coding\visual studio projects\opengl test\shader fade to black\main.cpp(225): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\jack ngo\desktop\coding\visual studio projects\opengl test\shader fade to black\main.cpp(287): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jack ngo\desktop\coding\visual studio projects\opengl test\shader fade to black\main.cpp(288): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jack ngo\desktop\coding\visual studio projects\opengl test\shader fade to black\main.cpp(292): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jack ngo\desktop\coding\visual studio projects\opengl test\shader fade to black\main.cpp(293): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jack ngo\desktop\coding\visual studio projects\opengl test\shader fade to black\main.cpp(294): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jack ngo\desktop\coding\visual studio projects\opengl test\shader fade to black\main.cpp(295): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Shader fade to black.vcxproj -> C:\Users\Jack Ngo\Desktop\Coding\Visual Studio Projects\OpenGL test\Debug\Shader fade to black.exe
+  Shader fade to black.vcxproj -> C:\Users\Jack Ngo\Desktop\Coding\Visual Studio Projects\OpenGL test\Debug\Shader fade to black.pdb (Partial PDB)
