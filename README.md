@@ -1,6 +1,6 @@
 # OpenGL-projects
 
-Small projects made while learning OpenGL. Each project is made using GLFW for window management, 
+Small projects made while learning OpenGL (3.3). Each project is made using GLFW for window management, 
 GLEW for OpenGL extension management, GLM for OpenGL maths and stbi_image.h for image loading.  
 
 The core of most of the projects were created while following the tutorials found at [LearnOpenGL](http://learnOpenGL.com).  
