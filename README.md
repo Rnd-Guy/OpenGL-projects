@@ -8,7 +8,7 @@ The core of most of the projects were created while following the tutorials foun
 ####Building example:
 ![building picture](Building example/building.PNG)  
 ![building wireframe](Building example/building wireframe.PNG)  
-Manually created using 346 vertices and 206 sets of 3 indices (for EBO).  
+Manually created using 346 vertices and a total of 206 triangles.  
   
 ####Shader fade to black:
 ![animated shader example](Shader fade to black/shader fade to black.gif)  
