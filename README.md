@@ -1,5 +1,7 @@
 # OpenGL-projects
 
+Created solely for self learning purposes.
+
 Small projects made while learning OpenGL (3.3). Each project is made using GLFW for window management, 
 GLEW for OpenGL extension management, GLM for OpenGL maths and stbi_image.h for image loading.  
 
